@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced Python, R & Data Visualization. 
 - 💞️ I’m looking to collaborate on above mentioned subjects. 
 - 😄 Pronouns: She/Her
--  Whatever I have done so far, whether coding practice or visualization practice, everything is here.
+-  Whatever I have done so far, whether coding practice, visualization practice or other samples, everything is here.
 -  Currently working on python linked dashboard.
 -  Very soon will add latest practices.
 
